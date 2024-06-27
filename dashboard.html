@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Boxicons -->
+	<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+	<!-- My CSS -->
+	<link rel="stylesheet" href="style.css">
+	<!-- Menyertakan stylesheet untuk DataTables -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css"
+    />
+    <!-- Menyertakan library jQuery -->
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://code.jquery.com/jquery-3.5.1.js"
+    ></script>
+    <!-- Menyertakan plugin DataTables untuk jQuery -->
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"
+    ></script>
+	<link rel="icon" href="img/T3.png" type="image/png">
+	<title>Team 3 Semarang</title>
+</head>
+
+<body>
+	<!-- SIDEBAR -->
+	<section id="sidebar">
+		<a href="#" class="brand">
+			<i class='bx'></i>
+			<span class="text">Vending Machine</span>
+		</a>
+		
+		<ul class="side-menu top">
+			<li class="active">
+				<a href="dashboard.html">
+					<i class='bx bxs-dashboard' ></i>
+					<span class="text">Dashboard</span>
+				</a>
+			</li>
+			<li>
+				<a href="team.html">
+					<i class='bx bxs-group'></i>
+					<span class="text">Team Manage</span>
+				</a>
+			</li>
+		</ul>
+	
+	</section>
+	<!-- SIDEBAR -->
+
+
+
+	<!-- CONTENT -->
+	<section id="content">
+		<!-- NAVBAR -->
+		<nav>
+			<i class='bx bx-menu'></i>
+
+			<div class="filter-container">
+				
+				<select id="category-filter">
+					<option value="all">Category</option>
+					<option value="food">Food</option>
+					<option value="water">Water</option>
+					<option value="carbonated">Carbonated</option>
+					<option value="non carbonated">Non Carbonated</option>
+				</select>
+
+				<select id="month-filter">
+					<option value="all">Month</option>
+					<option value="Januari">Januari</option>
+					<option value="Februari">Februari</option>
+					<option value="Maret">Maret</option>
+					<option value="April">April</option>
+					<option value="Mei">Mei</option>
+					<option value="Juni">Juni</option>
+					<option value="Juli">Juli</option>
+					<option value="Agustus">Agustus</option>
+					<option value="September">September</option>
+					<option value="Oktober">Oktober</option>
+					<option value="November">November</option>
+					<option value="Desember">Desember</option>
+				</select>
+				  
+			</div>
+
+			<a href="#" class="profile">
+				<img src="img/T3.png">
+			</a>
+			
+		</nav>
+		<!-- NAVBAR -->
+
+		
+
+		<!-- MAIN -->
+		<main>
+			<span class="text">
+				<h3>Sales By Category</h3>
+			</span>
+			
+			<ul class="box-info" id="sales-container">
+				<li>
+					<span class="text">	
+						<p>Food</p>
+					</span>
+				</li>
+				<li>
+					<span class="text">
+						<p>Water</p>
+					</span>
+				</li>
+				<li>
+					<span class="text">
+						<p>Carbonated</p>
+					</span>
+				</li>
+				<li>
+					<span class="text">						
+						<p>Non Carbonated</p>
+					</span>
+				</li>
+			</ul>
+			
+			<ul class="box">
+				<li style="display: flex; flex-direction: column;">
+                	<h3>Average Basket Size by Location</h3>
+					<div style="width:100%;height:100%">
+						<canvas id="barchart" ></canvas>
+					</div>
+				</li>
+				
+				<li style="display: flex; flex-direction: column;">
+					<h3>Average Basket Size by Category</h3>
+					<div style="width:100%;height:100%">
+						<canvas id="barchart2" ></canvas>
+					</div>
+				</li>
+            </ul>
+			
+			<ul class="box">
+				<li style="display: flex; flex-direction: column;">
+					<h3>Type by Location</h3>
+					<div style="width:100%;height:100%">
+						<canvas id="chart3"></canvas>
+					</div>
+				</li>
+				
+				<li style="display: flex; flex-direction: column;">
+					<h3>Sales by Month</h3>
+					<div style="width:100%;height:100%">
+						<canvas id="chart4"></canvas>
+					</div>
+				</li>
+            </ul>
+
+			<ul class="box">
+				<li style="display: flex; flex-direction: column;">
+					<h3>Sales Category by Location</h3>
+					<div style="width:100%;height:100%">
+						<canvas id="chart5" ></canvas>
+					</div>
+				</li>
+				
+				<li style="display: flex; flex-direction: column;">
+				<h3>Sales in BSQ Mall</h3>
+				<div style="width:50%;height:100%">
+					<canvas id="chart6" ></canvas>
+				</div>
+				</li>
+            </ul>			
+            </div>
+			<div class="table-data">
+				<div class="order">
+					<div class="head">
+						<h3>Top Product By Sales</h3>
+					</div>
+					<table id="topCategoriesTable">
+						<thead>
+							<tr>
+								<th>Product</th>
+								<th>Location</th>
+								<th>Sold</th>
+							</tr>
+						</thead>
+						<tbody id="valData">
+						</tbody>
+					</table>
+				</div>
+
+			</div>
+
+			<div class="table-data">
+				<div class="order">
+					<div class="head">
+						<h3>Top Product By ABS</h3>
+					</div>
+					<table id="topCategoriesTable2">
+						<thead>
+							<tr>
+								<th>Product</th>
+								<th>Category</th>
+								<th>Sold</th>
+							</tr>
+						</thead>
+						<tbody id="valSales">
+						</tbody>
+					</table>
+				</div>
+
+			</div>
+		</main>
+		<!-- MAIN -->
+	</section>
+	<!-- CONTENT -->
+	<!-- FOOTER -->
+    <footer>
+        <p>&copy; 2024 Team 3 Semarang. All rights reserved.</p>
+    </footer>
+    <!-- FOOTER -->
+
+	<script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+    <script src="script.js"></script>
+    <script src="chart1.js" type="module"></script>
+    <script src="chart2.js" type="module"></script>
+    <script src="chart3.js" type="module"></script>
+    <script src="chart4.js" type="module"></script>
+    <script src="chart5.js" type="module"></script>
+    <script src="chart6.js" type="module"></script>
+	<script src="chart7.js" type="module"></script>
+	<script src="chart8.js" type="module"></script>
+	<script src="card.js" type="module" defer></script>
+
+	
+
+</body>
+</html>
+

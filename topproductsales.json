@@ -1,0 +1,1691 @@
+[{
+  "product": "Monster Energy Original",
+  "category": "Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "1260"
+}, {
+  "product": "Red Bull - Original",
+  "category": "Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "675"
+}, {
+  "product": "Coca Cola - Zero Sugar",
+  "category": "Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "434"
+}, {
+  "product": "Starbucks Doubleshot Energy - Mocha",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "409"
+}, {
+  "product": "KitKat - Crisp Wafers",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "373"
+}, {
+  "product": "Coca Cola - Regular",
+  "category": "Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "314"
+}, {
+  "product": "Starbucks Refresher - Real Coconut Water",
+  "category": "Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "294"
+}, {
+  "product": "Sunkist Soda - Orange",
+  "category": "Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "290"
+}, {
+  "product": "Monster Energy Original",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "288"
+}, {
+  "product": "Poland Springs Water",
+  "category": "Water",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "284"
+}, {
+  "product": "Coca Cola - Zero Sugar",
+  "category": "Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "280"
+}, {
+  "product": "Poland Springs Water",
+  "category": "Water",
+  "location": "EB Public Library",
+  "total_sales": "219"
+}, {
+  "product": "Robert Irvine\u0027s - Fit Crunch -  Chocolate Pea",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "204"
+}, {
+  "product": "Snapple Tea - Raspberry",
+  "category": "Non Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "192"
+}, {
+  "product": "Wonderful Pistachios - Variety",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "188"
+}, {
+  "product": "Wonderful Pistachios - Variety",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "152"
+}, {
+  "product": "Snapple Tea - Lemon",
+  "category": "Non Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "150"
+}, {
+  "product": "CheezIt - Original",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "144"
+}, {
+  "product": "Bai Antioxidant - Tanzania Lemon Super Tea",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "143"
+}, {
+  "product": "Kinder - Bueno - Crispy Creamy Chocolate",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "140"
+}, {
+  "product": "Cheetos - Fleming Hot Crunchy",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "138"
+}, {
+  "product": "Snapple Tea - Peach",
+  "category": "Non Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "136"
+}, {
+  "product": "Iberia Coconut Water",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "126"
+}, {
+  "product": "Lenny \u0026 Larrys - SnickerDoodle",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "124"
+}, {
+  "product": "Pringles - Cheddar Cheese",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "121"
+}, {
+  "product": "Ice Breakers Ice Cubes - PepperMint",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "120"
+}, {
+  "product": "Pringles - Sour Cream \u0026 Onion",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "119"
+}, {
+  "product": "Cheetos Flaming Hot Limon Crunchy",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "118"
+}, {
+  "product": "CheezIt - Go Paks",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "114"
+}, {
+  "product": "Lenny \u0026 Larrys - Chocolate Chip",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "108"
+}, {
+  "product": "Funyuns - Flaming Hot",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "107"
+}, {
+  "product": "Goldfish Baked - Cheddar",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "106"
+}, {
+  "product": "Mini Chips Ahoy",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "104"
+}, {
+  "product": "SunChips Multigrain - Harvest Cheddar",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "102"
+}, {
+  "product": "Nature\u0027s Bakery Fig Bar - Raspberry",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "98"
+}, {
+  "product": "Robert Irvine\u0027s - Fit Crunch -  Chocolate Pea",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "96"
+}, {
+  "product": "KitKat - Crisp Wafers",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "94"
+}, {
+  "product": "Snapple Diet Tea - Peach Tea",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "94"
+}, {
+  "product": "S. Pellegrino Sparkling Mineral Water",
+  "category": "Water",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "92"
+}, {
+  "product": "Snapple Diet Tea - Lemon",
+  "category": "Non Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "90"
+}, {
+  "product": "Chesters Fries Flaming hot",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "86"
+}, {
+  "product": "Snapple Diet Tea - Peach Tea",
+  "category": "Non Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "86"
+}, {
+  "product": "Coca Cola - Regular",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "84"
+}, {
+  "product": "Oreo Mini",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "84"
+}, {
+  "product": "Nature\u0027s Bakery Fig Bar - Blueberry",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "82"
+}, {
+  "product": "Lays - Classic",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "80"
+}, {
+  "product": "Coca Cola - Zero Sugar",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "80"
+}, {
+  "product": "Pringles - Original",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "79"
+}, {
+  "product": "SunChips Multigrain - Salsa",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "79"
+}, {
+  "product": "Keto Bar - Creamy Peanut Butter Chocolate",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "78"
+}, {
+  "product": "Snapple Tea - Raspberry",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "72"
+}, {
+  "product": "SunChips Multigrain - Original",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "69"
+}, {
+  "product": "Iberia Coconut Water",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "68"
+}, {
+  "product": "SunChips Multigrain - Salsa",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "67"
+}, {
+  "product": "Snapple Tea - Lemon",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "65"
+}, {
+  "product": "Doritos Famin Hot Nacho",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "64"
+}, {
+  "product": "BodyArmor LYTE - Strawberry Lemonade",
+  "category": "Water",
+  "location": "EB Public Library",
+  "total_sales": "64"
+}, {
+  "product": "Oreo Mini",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "60"
+}, {
+  "product": "Oreo Single Server 6 ct",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "58"
+}, {
+  "product": "CheezIt - Original",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "58"
+}, {
+  "product": "Genius Keto Bar - Chocolate Dream",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "58"
+}, {
+  "product": "Snyder\u0027s of Hanover Pretzel Pieces - Honey Mu",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "56"
+}, {
+  "product": "CheezIt - White Cheddar",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "55"
+}, {
+  "product": "RXBAR - Protein Bar - Peanut Butter",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "54"
+}, {
+  "product": "BodyArmor  LYTE - Blueberry Pomegranate",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "54"
+}, {
+  "product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "54"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Sea Salt Original",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "54"
+}, {
+  "product": "Wonderful Pistachios - Variety",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "52"
+}, {
+  "product": "Takis - Hot Chilli Pepper \u0026 Lime",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "52"
+}, {
+  "product": "Snapple Diet Tea - Peach Tea",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "52"
+}, {
+  "product": "Snyder\u0027s of Hanover Pretzel Pieces - Hot Buff",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "52"
+}, {
+  "product": "SunChips Multigrain - Original",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "50"
+}, {
+  "product": "RXBAR - Protein Bar - Chocolate Sea Salt",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "50"
+}, {
+  "product": "Doritos Nacho Cheese",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "49"
+}, {
+  "product": "SunChips Multigrain - Harvest Cheddar",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "49"
+}, {
+  "product": "Jacks Links Bar Beef Strip",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "48"
+}, {
+  "product": "KitKat - Crisp Wafers",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "48"
+}, {
+  "product": "SunChips Multigrain - Harvest Cheddar",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "47"
+}, {
+  "product": "Pop Corners - Sea Salt",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "46"
+}, {
+  "product": "Robert Irvine\u0027s - Fit Crunch -  Chocolate Pea",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "46"
+}, {
+  "product": "Snapple Diet Tea - Lemon",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "46"
+}, {
+  "product": "Snyder\u0027s of Hanover Pretzel Pieces - Cheddar",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "46"
+}, {
+  "product": "S. Pellegrino Sparkling Mineral Water",
+  "category": "Water",
+  "location": "EB Public Library",
+  "total_sales": "44"
+}, {
+  "product": "Simply Protein - Peanut Butter Chocolate",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "44"
+}, {
+  "product": "Red Bull - Original",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "43"
+}, {
+  "product": "Spindrift - Sparkling Water  Lime",
+  "category": "Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "43"
+}, {
+  "product": "Doritos Cool Ranch",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "42"
+}, {
+  "product": "Simply Protein - Lemon Coconut",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "42"
+}, {
+  "product": "Keto Bar - Creamy Peanut Butter Chocolate",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "42"
+}, {
+  "product": "Vitamin Water - Squeezed Lemonade",
+  "category": "Water",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "42"
+}, {
+  "product": "CheezIt - Double Cheese",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "42"
+}, {
+  "product": "Snapple Diet Tea - Lemon",
+  "category": "Non Carbonated",
+  "location": "Earle Asphalt",
+  "total_sales": "40"
+}, {
+  "product": "SunChips Multigrain - Salsa",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "40"
+}, {
+  "product": "Kinder - Bueno - Crispy Creamy Chocolate",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "40"
+}, {
+  "product": "BodyArmor LYTE  - Peach Mango",
+  "category": "Water",
+  "location": "EB Public Library",
+  "total_sales": "40"
+}, {
+  "product": "Spindrift - Sparkling Water - Pineapple",
+  "category": "Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "40"
+}, {
+  "product": "Cheetos Puffs",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "39"
+}, {
+  "product": "SunChips Multigrain - Harvest Cheddar",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "39"
+}, {
+  "product": "Red Bull - Energy Drink - Sugar Free",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "39"
+}, {
+  "product": "Starbucks Refresher - Real Coconut Water",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "39"
+}, {
+  "product": "Snapple Diet Tea - Raspberry",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "38"
+}, {
+  "product": "Oreo Single Server 6 ct",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "38"
+}, {
+  "product": "Fritos - Original",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "37"
+}, {
+  "product": "CheezIt - Original",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "36"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Sea Salt \u0026 Vinega",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "36"
+}, {
+  "product": "Takis FUGEO mini",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "35"
+}, {
+  "product": "Cheetos Cheddar Jalapeno",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "35"
+}, {
+  "product": "Jack Links Beef Steak Original",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "35"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Lime \u0026 Cracked Pe",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "35"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Smokehouse BBQ",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "34"
+}, {
+  "product": "Vitamin Water - XXX Acai BB Pomegranate",
+  "category": "Water",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "34"
+}, {
+  "product": "Nutri Grain Apple Cinnamon",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "32"
+}, {
+  "product": "Keto Krisp - Almond Butter",
+  "category": "Carbonated",
+  "location": "Earle Asphalt",
+  "total_sales": "32"
+}, {
+  "product": "BodyArmor LYTE  - Peach Mango",
+  "category": "Water",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "32"
+}, {
+  "product": "Pop Corners - Kettle Corn",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "32"
+}, {
+  "product": "Simply Protein - Dark Chocolate Sea Salt",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "32"
+}, {
+  "product": "Pop Corners - Kettle Corn",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "31"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Jalapeno",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "31"
+}, {
+  "product": "Mini Chips Ahoy",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "30"
+}, {
+  "product": "Monster Energy  Zero Ultra",
+  "category": "Carbonated",
+  "location": "Earle Asphalt",
+  "total_sales": "30"
+}, {
+  "product": "S. Pellegrino Essenza Mineral Water - Blood O",
+  "category": "Carbonated",
+  "location": "Earle Asphalt",
+  "total_sales": "30"
+}, {
+  "product": "Bai Antioxidant - Zambia Bingcherry",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "30"
+}, {
+  "product": "Cheetos - Crunchy",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "29"
+}, {
+  "product": "Pop Corners - White Cheddar",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "29"
+}, {
+  "product": "Takis - Hot Chilli Pepper \u0026 Lime",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "29"
+}, {
+  "product": "CheezIt - Cheddar Sour Cream and Onion",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "29"
+}, {
+  "product": "Ritz Bits Cheese",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "28"
+}, {
+  "product": "Fritos - Original",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "28"
+}, {
+  "product": "Newtons Fig Bar",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "28"
+}, {
+  "product": "Lindens - Chocolate Chippers",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "28"
+}, {
+  "product": "Autumns Granola Bar - Cinnamon Almond",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "28"
+}, {
+  "product": "Munchies Snack mix Flaming Hot",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "27"
+}, {
+  "product": "RXBAR - Protein Bar - Chocolate Sea Salt",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "26"
+}, {
+  "product": "V8 Vegetable Juice - Original",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "26"
+}, {
+  "product": "SunChips Multigrain - Salsa",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "25"
+}, {
+  "product": "Bai Antioxidant - Kupang strawberry kiwi",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "25"
+}, {
+  "product": "Cheetos Baked - Crunchy Cheese",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "24"
+}, {
+  "product": "Kinder - Bueno - Crispy Creamy Chocolate",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "24"
+}, {
+  "product": "Bai Antioxidant - Molokai Coconut",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "24"
+}, {
+  "product": "Takis FUGEO mini",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "24"
+}, {
+  "product": "Red Bull - Energy Drink - Sugar Free",
+  "category": "Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "24"
+}, {
+  "product": "Snyder\u0027s of Hanover Pretzel - Cheddar Cheese",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "24"
+}, {
+  "product": "Oreo Mini",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "23"
+}, {
+  "product": "Cheetos Baked - Flaming Hot",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "23"
+}, {
+  "product": "Goldfish Baked - Cheddar",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "23"
+}, {
+  "product": "Belvita Snack Packs - Blueberry",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "23"
+}, {
+  "product": "Oreo Mini",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "22"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Sea Salt Original",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "21"
+}, {
+  "product": "SunChips Multigrain - French Onion",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "21"
+}, {
+  "product": "Newtons Fig Bar",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "20"
+}, {
+  "product": "Lindens - Chocolate Chippers",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "20"
+}, {
+  "product": "SunChips Multigrain - Original",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "20"
+}, {
+  "product": "RXBAR - Protein Bar - Peanut Butter",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "20"
+}, {
+  "product": "Snapple Diet Tea - Lemon",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "20"
+}, {
+  "product": "Pop Corners - Sea Salt",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "20"
+}, {
+  "product": "Honest Tea - Berry Hibiscus",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "20"
+}, {
+  "product": "Simply Protein - Lemon Coconut",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "20"
+}, {
+  "product": "SunChips Multigrain - Original",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "19"
+}, {
+  "product": "Ruffles Baked  - Cheddar \u0026 Sour Cream",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "19"
+}, {
+  "product": "Pure Organic Fruit Bar - Strawberry Banana",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "19"
+}, {
+  "product": "Goldfish Baked - Cheddar",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "19"
+}, {
+  "product": "Pop Corners - Spicy Queso",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "19"
+}, {
+  "product": "Pop Corners - Spicy Queso",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "19"
+}, {
+  "product": "Keto Bar - Creamy Peanut Butter Chocolate",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "19"
+}, {
+  "product": "Takis FUGEO mini",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "19"
+}, {
+  "product": "Hersheys Milk Chocolate",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "18"
+}, {
+  "product": "Jacks Links Bar Beef Strip",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "18"
+}, {
+  "product": "Good Health Veggie Stix - Zesty Ranch",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "18"
+}, {
+  "product": "NuGo Dark Chocolate - Choc Chip",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "18"
+}, {
+  "product": "Coca Cola - Zero Sugar",
+  "category": "Carbonated",
+  "location": "Earle Asphalt",
+  "total_sales": "17"
+}, {
+  "product": "Spindrift - Sparkling Water - Pineapple",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "17"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Sea Salt \u0026 Vinega",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "17"
+}, {
+  "product": "Pop Corners - White Cheddar",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "17"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Jalapeno",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "17"
+}, {
+  "product": "Snapple Lemonade - pineapple",
+  "category": "Non Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "16"
+}, {
+  "product": "Snapple Lemonade - watermelon",
+  "category": "Non Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "16"
+}, {
+  "product": "Snapple Lemonade - black berry",
+  "category": "Non Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "16"
+}, {
+  "product": "Keto Krisp - Almond/Chocolate",
+  "category": "Carbonated",
+  "location": "Earle Asphalt",
+  "total_sales": "16"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Lime \u0026 Cracked Pe",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "16"
+}, {
+  "product": "Popchips Potato - Sea Salt",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "16"
+}, {
+  "product": "Good Health Veggie Stix - Sea Salt",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "16"
+}, {
+  "product": "Snapple Diet Tea - Raspberry",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "16"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Smokehouse BBQ",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "16"
+}, {
+  "product": "Skinny Pop Popcorn",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "15"
+}, {
+  "product": "Nutter Butter Bites",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "15"
+}, {
+  "product": "SunChips Multigrain - French Onion",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "15"
+}, {
+  "product": "Vitamin Water - Ice Cool Blue Lavender",
+  "category": "Water",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "15"
+}, {
+  "product": "Belvita Snack Bites - Cinnamon BS Go Paks",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "15"
+}, {
+  "product": "KitKat - Crisp Wafers",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "14"
+}, {
+  "product": "Snapple Diet Tea - Raspberry",
+  "category": "Non Carbonated",
+  "location": "Earle Asphalt",
+  "total_sales": "14"
+}, {
+  "product": "Bai Lemonade - Burundi Blueberry",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "14"
+}, {
+  "product": "Snyder\u0027s of Hanover Pretzel Pieces - Honey Mu",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "14"
+}, {
+  "product": "Orchard Bar - Variety",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "14"
+}, {
+  "product": "TruBar - Cookie Dough",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "14"
+}, {
+  "product": "Snapple Tea - Raspberry",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "14"
+}, {
+  "product": "Hungry Buddha - Chocolate Chip",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "14"
+}, {
+  "product": "Keep Healthy - Chocolate Fudge",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "14"
+}, {
+  "product": "TruBar - Daydreaming about Donuts",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "14"
+}, {
+  "product": "Good Health Veggie Stix - Sea Salt",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "13"
+}, {
+  "product": "Lays - Classic",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "13"
+}, {
+  "product": "Newtons Fig Bar",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "13"
+}, {
+  "product": "Pop Corners - White Cheddar",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "13"
+}, {
+  "product": "Good Health Veggie Stix - Sea Salt",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "13"
+}, {
+  "product": "Pop Corners - Sea Salt",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "13"
+}, {
+  "product": "Spindrift - Sparkling Water  Lime",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "13"
+}, {
+  "product": "Good Health Veggie Stix - Sea Salt",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "13"
+}, {
+  "product": "Hersheys Milk Chocolate",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "12"
+}, {
+  "product": "Oreo Single Server 6 ct",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "12"
+}, {
+  "product": "Hungry Buddha - Chocolate Chip",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "12"
+}, {
+  "product": "CheezIt - Cheddar Sour Cream and Onion",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "12"
+}, {
+  "product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "12"
+}, {
+  "product": "Pop Corners - Sweet \u0026 Salty Kettle",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "12"
+}, {
+  "product": "Seapoint Farms Dry Roasted Edamame - Wasabi",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "12"
+}, {
+  "product": "NuGo Dark Chocolate - Pretzel Sea Salt",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "12"
+}, {
+  "product": "Zevia Zero Calorie Energy - Mango Ginger",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "12"
+}, {
+  "product": "Keto Krisp - Almond Butter",
+  "category": "Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "12"
+}, {
+  "product": "Hungry Buddha - Coconut Cocoa",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "12"
+}, {
+  "product": "Keto Krisp - Almond/Chocolate",
+  "category": "Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "12"
+}, {
+  "product": "Goldfish Baked - Cheddar",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "11"
+}, {
+  "product": "CheezIt - White Cheddar",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "11"
+}, {
+  "product": "Takis - Hot Chilli Pepper \u0026 Lime",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "11"
+}, {
+  "product": "Lays Baked - Original",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "11"
+}, {
+  "product": "Oberto Specialty Meats - Original",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "11"
+}, {
+  "product": "Pop Corners - Spicy Queso",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "10"
+}, {
+  "product": "BodyArmor LYTE  - Berry Punch",
+  "category": "Water",
+  "location": "Earle Asphalt",
+  "total_sales": "10"
+}, {
+  "product": "BodyArmor LYTE  - Peach Mango",
+  "category": "Water",
+  "location": "Earle Asphalt",
+  "total_sales": "10"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Sea Salt \u0026 Vinega",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "10"
+}, {
+  "product": "BodyArmor LYTE - Strawberry Lemonade",
+  "category": "Water",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "10"
+}, {
+  "product": "Autumns Granola Bar - Cinnamon Almond",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "10"
+}, {
+  "product": "Bai Antioxidant - Brasilia BB",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "10"
+}, {
+  "product": "BodyArmor  LYTE - Blueberry Pomegranate",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "10"
+}, {
+  "product": "Bai Antioxidant - Kula Watermelon",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "10"
+}, {
+  "product": "Spindrift - Sparkling Water  Grapefruit",
+  "category": "Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "10"
+}, {
+  "product": "Pop Corners - Sea Salt",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "9"
+}, {
+  "product": "Takis FUGEO mini",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "9"
+}, {
+  "product": "Ritz Bits Peanut Butter",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "9"
+}, {
+  "product": "Nature\u0027s Garden Trail Mix - Cranberry Healthy",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "9"
+}, {
+  "product": "Nutter Butter Bites",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "9"
+}, {
+  "product": "Pop Corners - Sweet \u0026 Salty Kettle",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "9"
+}, {
+  "product": "Popchips Potato - Barbeque",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "8"
+}, {
+  "product": "Quaker Caramel Rice Crisps",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "8"
+}, {
+  "product": "Chum Fruit Bites - Mango/Strawberry",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "8"
+}, {
+  "product": "Nutter Butter Bites",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "8"
+}, {
+  "product": "Zevia Organic Tea - Peach",
+  "category": "Non Carbonated",
+  "location": "Earle Asphalt",
+  "total_sales": "8"
+}, {
+  "product": "Belvita Snack Packs - Blueberry",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "8"
+}, {
+  "product": "Vitamin Water - Squeezed Lemonade",
+  "category": "Water",
+  "location": "Earle Asphalt",
+  "total_sales": "8"
+}, {
+  "product": "Made in Nature - Mangoes Sweet \u0026 Tangy",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "8"
+}, {
+  "product": "Vitamin Water - Ice Cool Blue Lavender",
+  "category": "Water",
+  "location": "Earle Asphalt",
+  "total_sales": "8"
+}, {
+  "product": "RXBAR - Protein Bar - Chocolate Sea Salt",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "8"
+}, {
+  "product": "Snyder\u0027s of Hanover Pretzel - Cheddar Cheese",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "8"
+}, {
+  "product": "V8 Vegetable Juice - Original",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "8"
+}, {
+  "product": "Skippy Peanut Butter - Go Paks",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "8"
+}, {
+  "product": "Zone Perfect - Chocolate Chip Cookie Dough",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "8"
+}, {
+  "product": "Lays - Barbecue",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "7"
+}, {
+  "product": "Pure Organic Fruit Bar - Raspberry Lemonade",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "7"
+}, {
+  "product": "Stretch Island Fruit Leathers Snacks - Variet",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "7"
+}, {
+  "product": "CheezIt - Double Cheese",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "7"
+}, {
+  "product": "Ritz Bits Peanut Butter",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "7"
+}, {
+  "product": "Popchips Potato - Sea Salt",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "7"
+}, {
+  "product": "V8 Vegetable Juice - Original",
+  "category": "Non Carbonated",
+  "location": "Earle Asphalt",
+  "total_sales": "7"
+}, {
+  "product": "SunChips Multigrain - French Onion",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "7"
+}, {
+  "product": "Popchips Potato - Sour Cream \u0026 Onion",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "7"
+}, {
+  "product": "CheezIt - Double Cheese",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "7"
+}, {
+  "product": "CheezIt - White Cheddar",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "7"
+}, {
+  "product": "Cheetos Baked - Crunchy Cheese",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "7"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Smokehouse BBQ",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "7"
+}, {
+  "product": "Ritz Bits Cheese",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "7"
+}, {
+  "product": "CheezIt - Original",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "6"
+}, {
+  "product": "CheezIt - Double Cheese",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "6"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Jalapeno",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "6"
+}, {
+  "product": "Keto Bar - Chocolate Dream",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "6"
+}, {
+  "product": "Popchips Potato - Barbeque",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "6"
+}, {
+  "product": "Keto Krisp - Almond Butter",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "6"
+}, {
+  "product": "Keep Healthy - Sea Salt Brownie",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "6"
+}, {
+  "product": "Chum Fruit Bites - Mango/Strawberry",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "6"
+}, {
+  "product": "CheezIt - Cheddar Sour Cream and Onion",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "6"
+}, {
+  "product": "Belvita Breakfast Biscuit Bites - Blueberry",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "6"
+}, {
+  "product": "Mini Chips Ahoy",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "6"
+}, {
+  "product": "Keto Bar - Chocolate Dream",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "6"
+}, {
+  "product": "Lindens - Chocolate Chippers",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "6"
+}, {
+  "product": "RXBAR - Protein Bar - Peanut Butter",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "6"
+}, {
+  "product": "Popchips Potato - Barbeque",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "6"
+}, {
+  "product": "Popchips Potato - Sea Salt",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "6"
+}, {
+  "product": "Remedy Kombucha - Ginger Lemon",
+  "category": "Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "6"
+}, {
+  "product": "Bai Lemonade - Burundi Blueberry",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "6"
+}, {
+  "product": "Bai Antioxidant - Zambia Bingcherry",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "6"
+}, {
+  "product": "Nature\u0027s Bakery Fig Bar - Blueberry",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "6"
+}, {
+  "product": "Popchips Potato - Sour Cream \u0026 Onion",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "6"
+}, {
+  "product": "Good Health Veggie Stix - Zesty Ranch",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "6"
+}, {
+  "product": "CheezIt - White Cheddar",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "5"
+}, {
+  "product": "Pop Corners - Kettle Corn",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "5"
+}, {
+  "product": "Takis - Hot Chilli Pepper \u0026 Lime",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "5"
+}, {
+  "product": "Pure Organic Pineapple Passionfruit",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "5"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Smokehouse BBQ",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "5"
+}, {
+  "product": "Bubly - Mango",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "5"
+}, {
+  "product": "Bubly - Cherry",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "5"
+}, {
+  "product": "Belvita Snack Packs - Chocolate",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "5"
+}, {
+  "product": "Quaker Apple Cinnamon Rice Crisps",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "4"
+}, {
+  "product": "Quaker ButterMilk Ranch Rice Crisps",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "4"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Lime \u0026 Cracked Pe",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "4"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Sea Salt \u0026 Vinega",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "4"
+}, {
+  "product": "Cheetos Baked - Flaming Hot",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "4"
+}, {
+  "product": "Keep Healthy - Chocolate Coconut",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "4"
+}, {
+  "product": "SunChips Multigrain - French Onion",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "4"
+}, {
+  "product": "Bubly - Lime",
+  "category": "Water",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "4"
+}, {
+  "product": "Bubly - Blackberry",
+  "category": "Water",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "4"
+}, {
+  "product": "Keto Krisp - Almond Butter",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "4"
+}, {
+  "product": "Nature\u0027s Garden Trail Mix - Omega 3",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "4"
+}, {
+  "product": "Nature\u0027s Garden Trail Mix - Heart Healthy Mix",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "4"
+}, {
+  "product": "Pop Corners - Spicy Queso",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "4"
+}, {
+  "product": "Bai Antioxidant - Kupang strawberry kiwi",
+  "category": "Non Carbonated",
+  "location": "EB Public Library",
+  "total_sales": "4"
+}, {
+  "product": "Spindrift - Sparkling Water  Lime",
+  "category": "Carbonated",
+  "location": "GuttenPlans",
+  "total_sales": "3"
+}, {
+  "product": "Belvita Breakfast Cookies - Blueberry",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "3"
+}, {
+  "product": "Lays Baked - Barbecue",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "3"
+}, {
+  "product": "Popchips Potato - Barbeque",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "3"
+}, {
+  "product": "Bubly - Grapefruit",
+  "category": "Water",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "3"
+}, {
+  "product": "Belvita Snack Packs - Blueberry",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "3"
+}, {
+  "product": "Ruffles Baked  - Cheddar \u0026 Sour Cream",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "3"
+}, {
+  "product": "Pure Organic Fruit Bar - Pineapple Passion Fr",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "2"
+}, {
+  "product": "Cheetos Baked - Flaming Hot",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "2"
+}, {
+  "product": "Belvita Snack Packs - Cinnamon",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "2"
+}, {
+  "product": "Spindrift - Sparkling Water  Lime",
+  "category": "Carbonated",
+  "location": "Earle Asphalt",
+  "total_sales": "2"
+}, {
+  "product": "Good Health Veggie Stix - Zesty Ranch",
+  "category": "Food",
+  "location": "Earle Asphalt",
+  "total_sales": "2"
+}, {
+  "product": "Larabar - Peanut Butter chocolate Chip",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "2"
+}, {
+  "product": "Snyder\u0027s of Hanover Pretzel - Cheddar Cheese",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "2"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Lime \u0026 Cracked Pe",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "2"
+}, {
+  "product": "Snyder\u0027s of Hanover Pretzel Pieces - Hot Buff",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "2"
+}, {
+  "product": "Keto Krisp - Almond/Chocolate",
+  "category": "Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "2"
+}, {
+  "product": "KIND Bar - Dark Choc Almond SeaSalt",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "2"
+}, {
+  "product": "Miss Vickie\u0027s Potato Chip - Jalapeno",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "2"
+}, {
+  "product": "Spindrift - Sparkling Water Raspberry Lime",
+  "category": "Non Carbonated",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "2"
+}, {
+  "product": "Orchard Bar - Cranberry Orange \u0026 Walnut",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "2"
+}, {
+  "product": "Orchard Bar - Pineapple Coconut \u0026 Macadamia",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "2"
+}, {
+  "product": "Quaker Cheddar Rice Crisps",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "1"
+}, {
+  "product": "Pop Corners - White Cheddar",
+  "category": "Food",
+  "location": "GuttenPlans",
+  "total_sales": "1"
+}, {
+  "product": "Nature\u0027s Valley Chewy Granola Bar - Fruit \u0026 N",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "1"
+}, {
+  "product": "Nature\u0027s Valley Crunchy Granola Bar - Oats \u0026",
+  "category": "Food",
+  "location": "Brunswick Sq Mall",
+  "total_sales": "1"
+}, {
+  "product": "Nature\u0027s Bakery Fig Bar - Raspberry",
+  "category": "Food",
+  "location": "EB Public Library",
+  "total_sales": "1"
+}]

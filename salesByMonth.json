@@ -1,0 +1,239 @@
+{
+  "total_sales": [
+    {
+      "periode": "Januari",
+      "total_sales": "752"
+    }, {
+      "periode": "Februari",
+      "total_sales": "777"
+    }, {
+      "periode": "Maret",
+      "total_sales": "937"
+    }, {
+      "periode": "April",
+      "total_sales": "1341"
+    }, {
+      "periode": "Mei",
+      "total_sales": "1285"
+    }, {
+      "periode": "Juni",
+      "total_sales": "1489"
+    }, {
+      "periode": "Juli",
+      "total_sales": "1740"
+    }, {
+      "periode": "Agustus",
+      "total_sales": "1694"
+    }, {
+      "periode": "September",
+      "total_sales": "1394"
+    }, {
+      "periode": "Oktober",
+      "total_sales": "1386"
+    }, {
+      "periode": "November",
+      "total_sales": "1256"
+    }, {
+      "periode": "Desember",
+      "total_sales": "1109"
+    }
+  ],
+
+  "total_by_category": [
+    {
+      "periode": "Januari",
+      "category": "Food",
+      "total_sales": "317"
+    }, {
+      "periode": "Januari",
+      "category": "Carbonated",
+      "total_sales": "294"
+    }, {
+      "periode": "Januari",
+      "category": "Non Carbonated",
+      "total_sales": "90"
+    }, {
+      "periode": "Januari",
+      "category": "Water",
+      "total_sales": "51"
+    }, {
+      "periode": "Februari",
+      "category": "Food",
+      "total_sales": "327"
+    }, {
+      "periode": "Februari",
+      "category": "Carbonated",
+      "total_sales": "303"
+    }, {
+      "periode": "Februari",
+      "category": "Non Carbonated",
+      "total_sales": "99"
+    }, {
+      "periode": "Februari",
+      "category": "Water",
+      "total_sales": "48"
+    }, {
+      "periode": "Maret",
+      "category": "Food",
+      "total_sales": "495"
+    }, {
+      "periode": "Maret",
+      "category": "Carbonated",
+      "total_sales": "283"
+    }, {
+      "periode": "Maret",
+      "category": "Non Carbonated",
+      "total_sales": "95"
+    }, {
+      "periode": "Maret",
+      "category": "Water",
+      "total_sales": "64"
+    }, {
+      "periode": "April",
+      "category": "Food",
+      "total_sales": "623"
+    }, {
+      "periode": "April",
+      "category": "Carbonated",
+      "total_sales": "444"
+    }, {
+      "periode": "April",
+      "category": "Non Carbonated",
+      "total_sales": "180"
+    }, {
+      "periode": "April",
+      "category": "Water",
+      "total_sales": "94"
+    }, {
+      "periode": "Mei",
+      "category": "Food",
+      "total_sales": "675"
+    }, {
+      "periode": "Mei",
+      "category": "Carbonated",
+      "total_sales": "291"
+    }, {
+      "periode": "Mei",
+      "category": "Non Carbonated",
+      "total_sales": "217"
+    }, {
+      "periode": "Mei",
+      "category": "Water",
+      "total_sales": "102"
+    }, {
+      "periode": "Juni",
+      "category": "Food",
+      "total_sales": "783"
+    }, {
+      "periode": "Juni",
+      "category": "Carbonated",
+      "total_sales": "363"
+    }, {
+      "periode": "Juni",
+      "category": "Non Carbonated",
+      "total_sales": "232"
+    }, {
+      "periode": "Juni",
+      "category": "Water",
+      "total_sales": "111"
+    }, {
+      "periode": "Juli",
+      "category": "Food",
+      "total_sales": "800"
+    }, {
+      "periode": "Juli",
+      "category": "Carbonated",
+      "total_sales": "504"
+    }, {
+      "periode": "Juli",
+      "category": "Non Carbonated",
+      "total_sales": "301"
+    }, {
+      "periode": "Juli",
+      "category": "Water",
+      "total_sales": "135"
+    }, {
+      "periode": "Agustus",
+      "category": "Food",
+      "total_sales": "823"
+    }, {
+      "periode": "Agustus",
+      "category": "Carbonated",
+      "total_sales": "503"
+    }, {
+      "periode": "Agustus",
+      "category": "Non Carbonated",
+      "total_sales": "274"
+    }, {
+      "periode": "Agustus",
+      "category": "Water",
+      "total_sales": "94"
+    }, {
+      "periode": "September",
+      "category": "Food",
+      "total_sales": "785"
+    }, {
+      "periode": "September",
+      "category": "Carbonated",
+      "total_sales": "372"
+    }, {
+      "periode": "September",
+      "category": "Non Carbonated",
+      "total_sales": "189"
+    }, {
+      "periode": "September",
+      "category": "Water",
+      "total_sales": "48"
+    }, {
+      "periode": "Oktober",
+      "category": "Food",
+      "total_sales": "756"
+    }, {
+      "periode": "Oktober",
+      "category": "Carbonated",
+      "total_sales": "403"
+    }, {
+      "periode": "Oktober",
+      "category": "Non Carbonated",
+      "total_sales": "172"
+    }, {
+      "periode": "Oktober",
+      "category": "Water",
+      "total_sales": "55"
+    }, {
+      "periode": "November",
+      "category": "Food",
+      "total_sales": "630"
+    }, {
+      "periode": "November",
+      "category": "Carbonated",
+      "total_sales": "402"
+    }, {
+      "periode": "November",
+      "category": "Non Carbonated",
+      "total_sales": "173"
+    }, {
+      "periode": "November",
+      "category": "Water",
+      "total_sales": "51"
+    }, {
+      "periode": "Desember",
+      "category": "Food",
+      "total_sales": "583"
+    }, {
+      "periode": "Desember",
+      "category": "Carbonated",
+      "total_sales": "283"
+    }, {
+      "periode": "Desember",
+      "category": "Non Carbonated",
+      "total_sales": "173"
+    }, {
+      "periode": "Desember",
+      "category": "Water",
+      "total_sales": "70"
+    }]
+}
+
+
+

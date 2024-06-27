@@ -1,0 +1,687 @@
+{
+  "default":[
+      {
+          "machine": "BSQ Mall x1364 - Zales",
+          "total_sales": "1376"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "total_sales": "1290"
+        }
+  ],
+  "periode":[
+    {
+      "periode": "Januari",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "118"
+    }, {
+      "periode": "Januari",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "84"
+    }, {
+      "periode": "Februari",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "124"
+    }, {
+      "periode": "Februari",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "101"
+    }, {
+      "periode": "Maret",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "78"
+    }, {
+      "periode": "Maret",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "126"
+    }, {
+      "periode": "April",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "118"
+    }, {
+      "periode": "April",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "90"
+    }, {
+      "periode": "Mei",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "118"
+    }, {
+      "periode": "Mei",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "144"
+    }, {
+      "periode": "Juni",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "133"
+    }, {
+      "periode": "Juni",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "176"
+    }, {
+      "periode": "Juli",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "106"
+    }, {
+      "periode": "Juli",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "201"
+    }, {
+      "periode": "Agustus",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "101"
+    }, {
+      "periode": "Agustus",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "137"
+    }, {
+      "periode": "September",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "99"
+    }, {
+      "periode": "September",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "65"
+    }, {
+      "periode": "Oktober",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "105"
+    }, {
+      "periode": "Oktober",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "91"
+    }, {
+      "periode": "November",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "100"
+    }, {
+      "periode": "November",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "71"
+    }, {
+      "periode": "Desember",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "90"
+    }, {
+      "periode": "Desember",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "90"
+    }
+  ],
+  "category" : [
+    [{
+      "Category": "Carbonated",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "352"
+    }, {
+      "Category": "Carbonated",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "269"
+    }, {
+      "Category": "Food",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "446"
+    }, {
+      "Category": "Food",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "587"
+    }, {
+      "Category": "Non Carbonated",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "239"
+    }, {
+      "Category": "Non Carbonated",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "253"
+    }, {
+      "Category": "Water",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1364 - Zales",
+      "DeviceID": "VJ300320611",
+      "total_sales": "253"
+    }, {
+      "Category": "Water",
+      "location": "Brunswick Sq Mall",
+      "machine": "BSQ Mall x1366 - ATT",
+      "DeviceID": "VJ300205292",
+      "total_sales": "267"
+    }]
+  ],
+  "periode_category" : [
+      {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "Januari",
+          "total_sales": "38"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "Januari",
+          "total_sales": "21"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "Januari",
+          "total_sales": "25"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "Januari",
+          "total_sales": "59"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "Januari",
+          "total_sales": "23"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "Januari",
+          "total_sales": "18"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "Januari",
+          "total_sales": "18"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "Februari",
+          "total_sales": "10"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "Februari",
+          "total_sales": "46"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "Februari",
+          "total_sales": "17"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "Februari",
+          "total_sales": "28"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "Februari",
+          "total_sales": "62"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "Februari",
+          "total_sales": "26"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "Februari",
+          "total_sales": "28"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "Februari",
+          "total_sales": "8"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "Maret",
+          "total_sales": "12"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "Maret",
+          "total_sales": "63"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "Maret",
+          "total_sales": "16"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "Maret",
+          "total_sales": "35"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "Maret",
+          "total_sales": "18"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "Maret",
+          "total_sales": "26"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "Maret",
+          "total_sales": "10"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "Maret",
+          "total_sales": "24"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "April",
+          "total_sales": "20"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "April",
+          "total_sales": "42"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "April",
+          "total_sales": "6"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "April",
+          "total_sales": "22"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "April",
+          "total_sales": "35"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "April",
+          "total_sales": "37"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "April",
+          "total_sales": "12"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "April",
+          "total_sales": "34"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "Mei",
+          "total_sales": "45"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "Mei",
+          "total_sales": "44"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "Mei",
+          "total_sales": "24"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "Mei",
+          "total_sales": "31"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "Mei",
+          "total_sales": "28"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "Mei",
+          "total_sales": "40"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "Mei",
+          "total_sales": "16"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "Mei",
+          "total_sales": "34"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "Juni",
+          "total_sales": "29"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "Juni",
+          "total_sales": "84"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "Juni",
+          "total_sales": "36"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "Juni",
+          "total_sales": "27"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "Juni",
+          "total_sales": "18"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "Juni",
+          "total_sales": "54"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "Juni",
+          "total_sales": "29"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "Juni",
+          "total_sales": "32"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "Juli",
+          "total_sales": "73"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "Juli",
+          "total_sales": "56"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "Juli",
+          "total_sales": "36"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "Juli",
+          "total_sales": "36"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "Juli",
+          "total_sales": "10"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "Juli",
+          "total_sales": "28"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "Juli",
+          "total_sales": "32"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "7",
+          "total_sales": "36"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "Agustus",
+          "total_sales": "17"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "Agustus",
+          "total_sales": "55"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "Agustus",
+          "total_sales": "43"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "Agustus",
+          "total_sales": "22"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "Agustus",
+          "total_sales": "32"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "Agustus",
+          "total_sales": "32"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "Agustus",
+          "total_sales": "17"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "Agustus",
+          "total_sales": "20"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "September",
+          "total_sales": "16"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "September",
+          "total_sales": "37"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "September",
+          "total_sales": "4"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "September",
+          "total_sales": "8"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "September",
+          "total_sales": "23"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "September",
+          "total_sales": "37"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "September",
+          "total_sales": "23"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "September",
+          "total_sales": "16"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "Oktober",
+          "total_sales": "11"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "Oktober",
+          "total_sales": "54"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "Oktober",
+          "total_sales": "18"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "Oktober",
+          "total_sales": "8"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "Oktober",
+          "total_sales": "37"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "Oktober",
+          "total_sales": "46"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "Oktober",
+          "total_sales": "12"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "Oktober",
+          "total_sales": "10"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "November",
+          "total_sales": "17"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "November",
+          "total_sales": "34"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "November",
+          "total_sales": "4"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "November",
+          "total_sales": "16"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "November",
+          "total_sales": "22"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "November",
+          "total_sales": "51"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "November",
+          "total_sales": "22"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "November",
+          "total_sales": "5"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Carbonated",
+          "month": "Desember",
+          "total_sales": "19"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Food",
+          "month": "Desember",
+          "total_sales": "34"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Non Carbonated",
+          "month": "Desember",
+          "total_sales": "28"
+        }, {
+          "machine": "BSQ Mall x1364 - Zales",
+          "category": "Water",
+          "month": "Desember",
+          "total_sales": "9"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Carbonated",
+          "month": "Desember",
+          "total_sales": "8"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Food",
+          "month": "Desember",
+          "total_sales": "46"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Non Carbonated",
+          "month": "Desember",
+          "total_sales": "20"
+        }, {
+          "machine": "BSQ Mall x1366 - ATT",
+          "category": "Water",
+          "month": "Desember",
+          "total_sales": "16"
+        }
+  ]
+}

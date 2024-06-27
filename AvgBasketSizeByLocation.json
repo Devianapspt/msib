@@ -1,0 +1,1075 @@
+{
+  "default" : [
+    {
+      "location": "EB Public Library",
+      "ABS": "1.88"
+    }, {
+      "location": "Brunswick Sq Mall",
+      "ABS": "1.64"
+    }, {
+      "location": "GuttenPlans",
+      "ABS": "1.64"
+    }, {
+      "location": "Earle Asphalt",
+      "ABS": "1.5"
+    }
+  ],
+  "category" : [
+    [{
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.2945929148539466"
+    }, {
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.8492791612057666"
+    }, {
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.4476409666283083"
+    }, {
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.8676470588235294"
+    }, {
+      "category": "Non Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.8157894736842106"
+    }, {
+      "category": "Water",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.3592105263157894"
+    }, {
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.1050847457627118"
+    }, {
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.0330578512396693"
+    }, {
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.4857142857142858"
+    }, {
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "1.7767364939360528"
+    }, {
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.3897435897435897"
+    }, {
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "1.2698961937716262"
+    }, {
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "1.8004115226337449"
+    }]
+  ],
+  "periode" : [
+    [{
+      "periode": "Januari",
+      "Location": "GuttenPlans",
+      "ABS": "1.5458015267175573"
+    }, {
+      "periode": "Januari",
+      "Location": "Earle Asphalt",
+      "ABS": "1.5425531914893618"
+    }, {
+      "periode": "Januari",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.8035714285714286"
+    }, {
+      "periode": "Februari",
+      "Location": "GuttenPlans",
+      "ABS": "1.7304347826086957"
+    }, {
+      "periode": "Februari",
+      "Location": "Earle Asphalt",
+      "ABS": "1.5098039215686274"
+    }, {
+      "periode": "Februari",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.7045454545454546"
+    }, {
+      "periode": "Maret",
+      "Location": "GuttenPlans",
+      "ABS": "1.7203389830508475"
+    }, {
+      "periode": "Maret",
+      "Location": "Earle Asphalt",
+      "ABS": "1.6547619047619047"
+    }, {
+      "periode": "Maret",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.5454545454545454"
+    }, {
+      "periode": "Maret",
+      "Location": "EB Public Library",
+      "ABS": "1.504"
+    }, {
+      "periode": "April",
+      "Location": "GuttenPlans",
+      "ABS": "1.6484848484848484"
+    }, {
+      "periode": "April",
+      "Location": "Earle Asphalt",
+      "ABS": "1.59375"
+    }, {
+      "periode": "April",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.6910569105691058"
+    }, {
+      "periode": "April",
+      "Location": "EB Public Library",
+      "ABS": "1.5967213114754097"
+    }, {
+      "periode": "Mei",
+      "Location": "GuttenPlans",
+      "ABS": "1.6736401673640167"
+    }, {
+      "periode": "Mei",
+      "Location": "Earle Asphalt",
+      "ABS": "1.6271186440677967"
+    }, {
+      "periode": "Mei",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.4886363636363635"
+    }, {
+      "periode": "Mei",
+      "Location": "EB Public Library",
+      "ABS": "1.6891025641025641"
+    }, {
+      "periode": "Juni",
+      "Location": "GuttenPlans",
+      "ABS": "1.7598566308243728"
+    }, {
+      "periode": "Juni",
+      "Location": "Earle Asphalt",
+      "ABS": "1.4285714285714286"
+    }, {
+      "periode": "Juni",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.5297029702970297"
+    }, {
+      "periode": "Juni",
+      "Location": "EB Public Library",
+      "ABS": "1.6780626780626782"
+    }, {
+      "periode": "Juli",
+      "Location": "GuttenPlans",
+      "ABS": "1.7129411764705882"
+    }, {
+      "periode": "Juli",
+      "Location": "Earle Asphalt",
+      "ABS": "1.5522388059701493"
+    }, {
+      "periode": "Juli",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.7542857142857142"
+    }, {
+      "periode": "Juli",
+      "Location": "EB Public Library",
+      "ABS": "1.7171428571428571"
+    }, {
+      "periode": "Agustus",
+      "Location": "GuttenPlans",
+      "ABS": "1.7027027027027026"
+    }, {
+      "periode": "Agustus",
+      "Location": "Earle Asphalt",
+      "ABS": "1.3583333333333334"
+    }, {
+      "periode": "Agustus",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.7761194029850746"
+    }, {
+      "periode": "Agustus",
+      "Location": "EB Public Library",
+      "ABS": "2.1318327974276525"
+    }, {
+      "periode": "September",
+      "Location": "GuttenPlans",
+      "ABS": "1.624113475177305"
+    }, {
+      "periode": "September",
+      "Location": "Earle Asphalt",
+      "ABS": "1.4757281553398058"
+    }, {
+      "periode": "September",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.7083333333333333"
+    }, {
+      "periode": "September",
+      "Location": "EB Public Library",
+      "ABS": "2.183098591549296"
+    }, {
+      "periode": "Oktober",
+      "Location": "GuttenPlans",
+      "ABS": "1.5748031496062993"
+    }, {
+      "periode": "Oktober",
+      "Location": "Earle Asphalt",
+      "ABS": "1.4545454545454546"
+    }, {
+      "periode": "Oktober",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.6752136752136753"
+    }, {
+      "periode": "Oktober",
+      "Location": "EB Public Library",
+      "ABS": "2.138801261829653"
+    }, {
+      "periode": "November",
+      "Location": "GuttenPlans",
+      "ABS": "1.4929577464788732"
+    }, {
+      "periode": "November",
+      "Location": "Earle Asphalt",
+      "ABS": "1.4606741573033708"
+    }, {
+      "periode": "November",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.6601941747572815"
+    }, {
+      "periode": "November",
+      "Location": "EB Public Library",
+      "ABS": "2.1071428571428572"
+    }, {
+      "periode": "Desember",
+      "Location": "GuttenPlans",
+      "ABS": "1.4748858447488584"
+    }, {
+      "periode": "Desember",
+      "Location": "Earle Asphalt",
+      "ABS": "1.603448275862069"
+    }, {
+      "periode": "Desember",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.5652173913043479"
+    }, {
+      "periode": "Desember",
+      "Location": "EB Public Library",
+      "ABS": "1.9655172413793103"
+    }]
+  ],
+  "periode_category" : [
+    [{
+      "periode": "Januari",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.2388059701492538"
+    }, {
+      "periode": "Januari",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.8141592920353982"
+    }, {
+      "periode": "Januari",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "Januari",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.3636363636363635"
+    }, {
+      "periode": "Januari",
+      "category": "Non Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.7"
+    }, {
+      "periode": "Januari",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "2.1428571428571428"
+    }, {
+      "periode": "Januari",
+      "category": "Water",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "Januari",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.6818181818181817"
+    }, {
+      "periode": "Januari",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.5925925925925926"
+    }, {
+      "periode": "Januari",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.2978723404255319"
+    }, {
+      "periode": "Januari",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.7727272727272727"
+    }, {
+      "periode": "Februari",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.5463917525773196"
+    }, {
+      "periode": "Februari",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.7758620689655173"
+    }, {
+      "periode": "Februari",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "Februari",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.381578947368421"
+    }, {
+      "periode": "Februari",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.6666666666666667"
+    }, {
+      "periode": "Februari",
+      "category": "Non Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.7142857142857142"
+    }, {
+      "periode": "Februari",
+      "category": "Water",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "Februari",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.4827586206896552"
+    }, {
+      "periode": "Februari",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.3333333333333333"
+    }, {
+      "periode": "Februari",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.2857142857142858"
+    }, {
+      "periode": "Februari",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.8"
+    }, {
+      "periode": "Maret",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.5284552845528456"
+    }, {
+      "periode": "Maret",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.8793103448275863"
+    }, {
+      "periode": "Maret",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.5866666666666667"
+    }, {
+      "periode": "Maret",
+      "category": "Non Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "Maret",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "Maret",
+      "category": "Water",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "Maret",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.3484848484848484"
+    }, {
+      "periode": "Maret",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.6666666666666667"
+    }, {
+      "periode": "Maret",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.0"
+    }, {
+      "periode": "Maret",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.5128205128205128"
+    }, {
+      "periode": "Maret",
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "1.375"
+    }, {
+      "periode": "Maret",
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.1923076923076925"
+    }, {
+      "periode": "Maret",
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "1.0"
+    }, {
+      "periode": "Maret",
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "1.1481481481481481"
+    }, {
+      "periode": "April",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.3577235772357723"
+    }, {
+      "periode": "April",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.7379679144385027"
+    }, {
+      "periode": "April",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "April",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.5555555555555556"
+    }, {
+      "periode": "April",
+      "category": "Non Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "April",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.462962962962963"
+    }, {
+      "periode": "April",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.2"
+    }, {
+      "periode": "April",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.0"
+    }, {
+      "periode": "April",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.5555555555555556"
+    }, {
+      "periode": "April",
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "1.55"
+    }, {
+      "periode": "April",
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.3043478260869565"
+    }, {
+      "periode": "April",
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "1.0"
+    }, {
+      "periode": "April",
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "1.28"
+    }, {
+      "periode": "Mei",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.384"
+    }, {
+      "periode": "Mei",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.7578947368421052"
+    }, {
+      "periode": "Mei",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "Mei",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.631578947368421"
+    }, {
+      "periode": "Mei",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.0"
+    }, {
+      "periode": "Mei",
+      "category": "Water",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "Mei",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.2173913043478262"
+    }, {
+      "periode": "Mei",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.553191489361702"
+    }, {
+      "periode": "Mei",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.0"
+    }, {
+      "periode": "Mei",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.5116279069767442"
+    }, {
+      "periode": "Mei",
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "1.625"
+    }, {
+      "periode": "Mei",
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.2941176470588234"
+    }, {
+      "periode": "Mei",
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "1.0294117647058822"
+    }, {
+      "periode": "Mei",
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "1.3513513513513513"
+    }, {
+      "periode": "Juni",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.4728682170542635"
+    }, {
+      "periode": "Juni",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.912"
+    }, {
+      "periode": "Juni",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "Juni",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.4057971014492754"
+    }, {
+      "periode": "Juni",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "3.0"
+    }, {
+      "periode": "Juni",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.2660550458715596"
+    }, {
+      "periode": "Juni",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.2380952380952381"
+    }, {
+      "periode": "Juni",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.096774193548387"
+    }, {
+      "periode": "Juni",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.4390243902439024"
+    }, {
+      "periode": "Juni",
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "1.584070796460177"
+    }, {
+      "periode": "Juni",
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.1875"
+    }, {
+      "periode": "Juni",
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "1.2380952380952381"
+    }, {
+      "periode": "Juni",
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "1.6086956521739131"
+    }, {
+      "periode": "Juli",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.4432989690721649"
+    }, {
+      "periode": "Juli",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.8064516129032258"
+    }, {
+      "periode": "Juli",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "Juli",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.540983606557377"
+    }, {
+      "periode": "Juli",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.6"
+    }, {
+      "periode": "Juli",
+      "category": "Non Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "Juli",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.3125"
+    }, {
+      "periode": "Juli",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.0"
+    }, {
+      "periode": "Juli",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.6"
+    }, {
+      "periode": "Juli",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.3714285714285714"
+    }, {
+      "periode": "Juli",
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "1.6442307692307692"
+    }, {
+      "periode": "Juli",
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.2037037037037037"
+    }, {
+      "periode": "Juli",
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "1.4651162790697674"
+    }, {
+      "periode": "Juli",
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "1.3275862068965518"
+    }, {
+      "periode": "Agustus",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.3111111111111111"
+    }, {
+      "periode": "Agustus",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.9240506329113924"
+    }, {
+      "periode": "Agustus",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "Agustus",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.3303571428571428"
+    }, {
+      "periode": "Agustus",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.5"
+    }, {
+      "periode": "Agustus",
+      "category": "Non Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.5"
+    }, {
+      "periode": "Agustus",
+      "category": "Water",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "Agustus",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.4745762711864407"
+    }, {
+      "periode": "Agustus",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.96"
+    }, {
+      "periode": "Agustus",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.2222222222222223"
+    }, {
+      "periode": "Agustus",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.5555555555555556"
+    }, {
+      "periode": "Agustus",
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "1.8870967741935485"
+    }, {
+      "periode": "Agustus",
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.42"
+    }, {
+      "periode": "Agustus",
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.35"
+    }, {
+      "periode": "Agustus",
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "2.0"
+    }, {
+      "periode": "September",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.1168831168831168"
+    }, {
+      "periode": "September",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0576923076923075"
+    }, {
+      "periode": "September",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "September",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.4795918367346939"
+    }, {
+      "periode": "September",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.4"
+    }, {
+      "periode": "September",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.3454545454545455"
+    }, {
+      "periode": "September",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.6"
+    }, {
+      "periode": "September",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.25"
+    }, {
+      "periode": "September",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.6"
+    }, {
+      "periode": "September",
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "2.0309278350515463"
+    }, {
+      "periode": "September",
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.7272727272727271"
+    }, {
+      "periode": "September",
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "1.411764705882353"
+    }, {
+      "periode": "September",
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "1.9649122807017543"
+    }, {
+      "periode": "Oktober",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.0526315789473684"
+    }, {
+      "periode": "Oktober",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.9655172413793103"
+    }, {
+      "periode": "Oktober",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "Oktober",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.4266666666666667"
+    }, {
+      "periode": "Oktober",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.5"
+    }, {
+      "periode": "Oktober",
+      "category": "Non Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "Oktober",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.5151515151515151"
+    }, {
+      "periode": "Oktober",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.8461538461538463"
+    }, {
+      "periode": "Oktober",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.5"
+    }, {
+      "periode": "Oktober",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.0"
+    }, {
+      "periode": "Oktober",
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "2.0046728971962615"
+    }, {
+      "periode": "Oktober",
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.5882352941176472"
+    }, {
+      "periode": "Oktober",
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "1.2333333333333334"
+    }, {
+      "periode": "Oktober",
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.2545454545454544"
+    }, {
+      "periode": "November",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.00990099009901"
+    }, {
+      "periode": "November",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "1.6794871794871795"
+    }, {
+      "periode": "November",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "November",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.3636363636363635"
+    }, {
+      "periode": "November",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "2.1428571428571428"
+    }, {
+      "periode": "November",
+      "category": "Non Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "November",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.4166666666666667"
+    }, {
+      "periode": "November",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.1666666666666665"
+    }, {
+      "periode": "November",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.3125"
+    }, {
+      "periode": "November",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.6"
+    }, {
+      "periode": "November",
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "2.0"
+    }, {
+      "periode": "November",
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.9615384615384617"
+    }, {
+      "periode": "November",
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "1.0714285714285714"
+    }, {
+      "periode": "November",
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.0975609756097562"
+    }, {
+      "periode": "Desember",
+      "category": "Food",
+      "Location": "GuttenPlans",
+      "ABS": "1.0296296296296297"
+    }, {
+      "periode": "Desember",
+      "category": "Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.1851851851851851"
+    }, {
+      "periode": "Desember",
+      "category": "Non Carbonated",
+      "Location": "GuttenPlans",
+      "ABS": "2.0"
+    }, {
+      "periode": "Desember",
+      "category": "Food",
+      "Location": "Earle Asphalt",
+      "ABS": "1.4"
+    }, {
+      "periode": "Desember",
+      "category": "Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "2.2"
+    }, {
+      "periode": "Desember",
+      "category": "Non Carbonated",
+      "Location": "Earle Asphalt",
+      "ABS": "1.75"
+    }, {
+      "periode": "Desember",
+      "category": "Water",
+      "Location": "Earle Asphalt",
+      "ABS": "2.0"
+    }, {
+      "periode": "Desember",
+      "category": "Food",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.4035087719298245"
+    }, {
+      "periode": "Desember",
+      "category": "Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.9285714285714286"
+    }, {
+      "periode": "Desember",
+      "category": "Water",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "1.1904761904761905"
+    }, {
+      "periode": "Desember",
+      "category": "Non Carbonated",
+      "Location": "Brunswick Sq Mall",
+      "ABS": "2.0"
+    }, {
+      "periode": "Desember",
+      "category": "Food",
+      "Location": "EB Public Library",
+      "ABS": "1.8666666666666667"
+    }, {
+      "periode": "Desember",
+      "category": "Non Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.3636363636363638"
+    }, {
+      "periode": "Desember",
+      "category": "Water",
+      "Location": "EB Public Library",
+      "ABS": "1.1935483870967742"
+    }, {
+      "periode": "Desember",
+      "category": "Carbonated",
+      "Location": "EB Public Library",
+      "ABS": "2.1090909090909089"
+    }]
+  ]
+}
